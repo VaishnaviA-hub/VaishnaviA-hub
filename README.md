@@ -20,7 +20,7 @@ I’ve developed projects that involve data cleaning, transformation, and visual
 Currently, I’m focused on strengthening my analytical thinking, exploring real datasets, and building a strong portfolio of projects.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://VaishnaviA-hub.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://vaishnavia-hub.github.io/VaishnaviA-hub/)
       
 ## 🛠️ Technical Skillset
 
